@@ -4,18 +4,18 @@ title: CV
 ---
 
 # Curriculum Vitæ
-<a href="https://github.com/artakh10/artakh10.github.io/blob/master/CV%20Arta%20Khosravi%20She.pdf" target="_blank">PDF.</a>
+
 {% include contact.html %}
 
 ## Section
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+You can have access to my full Curriculum Vitæ via <a href="https://github.com/artakh10/artakh10.github.io/blob/master/CV%20Arta%20Khosravi%20She.pdf" target="_blank">this link.</a>
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+#* Ut enim ad minim veniam
+#* Quis nostrud exercitation
+#* Ullamco laboris nisi
+#* Ut aliquip ex ea commodo consequat
 
 ### Subsection
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa #qui officia deserunt mollit anim id est laborum.

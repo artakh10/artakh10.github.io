@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Curriculum Vitæ
-<a href="artakh10.github.io/CV Arta Khosravi She.pdf" target="_blank">PDF.</a>
+<a href="[artakh10.github.io/CV Arta Khosravi She.pdf](https://github.com/artakh10/artakh10.github.io/blob/master/CV%20Arta%20Khosravi%20She.pdf)" target="_blank">PDF.</a>
 {% include contact.html %}
 
 ## Section

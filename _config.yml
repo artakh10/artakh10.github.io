@@ -1,30 +1,30 @@
 # site settings
 
 title: Arta Khosravi
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+description: Master of Science in Cosmology | Research Assistant
+taglong: Master of Science in Cosmology | Research Assistant
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/artakh10/artakh10.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Arta Khosravi
+  email: artakh10@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  # facebook: username
+  github: artakh10
+  # instagram: username
+  linkedin: artakh
+  # stackoverflow: 0000000/username
+  # twitter: username
 
 # build settings
 

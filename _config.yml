@@ -3,7 +3,7 @@
 title: Arta Khosravi
 description: Master of Science in Cosmology | Research Assistant
 taglong: Master of Science in Cosmology | Research Assistant
-tagshort: Jekyll theme
+tagshort: Master of Science in Cosmology | Research Assistant
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
@@ -20,9 +20,9 @@ photo: /assets/jpg/photo.jpg
 
 social:
   # facebook: username
-  github: artakh10
+  github: https://github.com/artakh10
   # instagram: username
-  linkedin: artakh
+  linkedin: https://www.linkedin.com/in/arta-khosravi/
   # stackoverflow: 0000000/username
   # twitter: username
 

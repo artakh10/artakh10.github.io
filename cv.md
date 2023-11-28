@@ -8,6 +8,6 @@ title: CV
 {% include contact.html %}
 
 
-You can have access to my full Curriculum Vitæ via <a href="https://github.com/artakh10/artakh10.github.io/blob/master/CV%20Arta%20Khosravi%20She.pdf" target="_blank">link.</a>
+You can have access to my full Curriculum Vitæ via <a href="https://artakh10.github.io/CV Arta Khosravi She.pdf" target="_blank">link.</a>
 
 
